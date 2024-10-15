@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://ogubiomo.github.io/DXb/sitemap_index.txt.gz
+Sitemap: https://ogubiomo.github.io/Paj/sitemap_index.txt.gz
+Sitemap: https://ogubiomo.github.io/XJZ/sitemap_index.txt.gz
+Sitemap: https://ogubiomo.github.io/lZU/sitemap_index.txt.gz
+Sitemap: https://ogubiomo.github.io/sitemap/sitemap_index.txt.gz
+Sitemap: https://ogubiomo.github.io/vBS/sitemap_index.txt.gz
